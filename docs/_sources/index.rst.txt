@@ -8,10 +8,11 @@ Welcome to test_03_19's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-
-
+   :caption: 目次:
+   
+   test
+   
+   
 Indices and tables
 ==================
 
